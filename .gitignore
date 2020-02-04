@@ -1,0 +1,7 @@
+out
+build
+target
+.idea_modules
+.idea
+*.iml
+*.db
