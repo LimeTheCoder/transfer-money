@@ -13,7 +13,7 @@
         <h2.version>1.4.190</h2.version>
         <flyway.version>6.2.1</flyway.version>
         <db.utils.version>1.7</db.utils.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>3.2.4</mockito.version>
         <hamcrest.version>2.2</hamcrest.version>
         <jackson.version>2.9.5</jackson.version>
