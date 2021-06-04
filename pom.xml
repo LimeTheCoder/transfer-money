@@ -17,7 +17,7 @@
         <mockito.version>3.2.4</mockito.version>
         <hamcrest.version>2.2</hamcrest.version>
         <jackson.version>2.9.5</jackson.version>
-        <http.client.version>4.5.11</http.client.version>
+        <http.client.version>4.5.13</http.client.version>
         <exec.mainClass>com.limethecoder.accounting.AppEntry</exec.mainClass>
     </properties>
 
